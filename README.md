@@ -1,4 +1,9 @@
-# JvWeather
+# Angular_Previsão_Tempo
+
+
+
+Projeto com objetivo de disponibilizar a previsão do tempo consumindo a api
+[Open Weather Map](https://rapidapi.com/blog/lp/openweathermap/?utm_source=google&utm_medium=cpc&utm_campaign=Alpha&utm_term=openweathermap_e&gclid=Cj0KCQjw--GFBhDeARIsACH_kdb121owm3cVReIljEyiWjmEF8c9Hjk-iYrMucr8jgouu7bZWZst1EAaAlVJEALw_wcB).
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
